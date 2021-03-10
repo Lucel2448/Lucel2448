@@ -1,5 +1,5 @@
 
-# Hola soy Lucely! :hamster:
+# Hola! soy Lucely :hamster:
 
     - De Perú, de la ciudad de Cusco 
     - Soy estudiante de Maestria en Ecologia y Gestion Ambiental 
