@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Lucel2448/Lucel2448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola soy Lucely Vilca! :hamster:
 
-Here are some ideas to get you started:
+    - De Perú, de la ciudad de Cusco 
+    - Soy estudiante de Maestria en Ecologia y Gestion Ambiental 
+    - Apasionada de la flora altoandina y Principiante en Ciencia de Datos y R 
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  *De cuando en vez hago fotos aqui*  ***[Instagram](https://www.instagram.com/lucel.2488/?hl=es-la)***
+  
+  *y si me quieres escribir aqui* :email:  ***vilca.lu01@gmail.com*** 
+   o aqui ***[Twitter](https://twitter.com/Lucel_2488)*** 
+   
+   :blossom:  :blossom:  :blossom:  :blossom:
