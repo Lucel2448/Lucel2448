@@ -2,7 +2,7 @@
 # Hola! soy Lucely :hamster:
 
     - De Perú, de la ciudad de Cusco 
-    - Soy estudiante de Maestria en Ecologia y Gestion Ambiental 
+    - Soy estudiante de Maestría en Ecología y Gestión Ambiental 
     - Amante de la Naturaleza! sobre todo las de las plantas
     - Principiante en Ciencia de Datos y R 
 ___
@@ -11,3 +11,7 @@ ___
   
   *y si me quieres escribir aqui* :email:  ***vilca.lu01@gmail.com*** 
    o aqui ***[Twitter](https://twitter.com/Lucel_2488)*** :wink:
+   
+   
+   
+###### *y desde donde estés deséame suerte en este frustrante, largo y angosto camino del Data Science con R*  :pray: :pensive:  Gracias!
