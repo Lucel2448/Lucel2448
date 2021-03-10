@@ -14,4 +14,4 @@ ___
    
    
    
-###### *y desde donde estés deséame suerte en este frustrante, largo y angosto camino del Data Science con R*  :pray: :pensive:  Gracias!
+###### *y desde donde estés deséame suerte en este frustrante, largo y angosto camino del Data Science con R* :pensive:
