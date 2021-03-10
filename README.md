@@ -3,7 +3,7 @@
 
     - De Perú, de la ciudad de Cusco 
     - Soy estudiante de Maestría en Ecología y Gestión Ambiental 
-    - Amante de la Naturaleza! sobre todo las de las plantas
+    - Amante de la Naturaleza! sobre todo de las plantas
     - Principiante en Ciencia de Datos y R 
 ___
 
@@ -14,4 +14,4 @@ ___
    
    
    
-###### *y desde donde estés deséame suerte en este frustrante, largo y angosto camino del Data Science con R* :pensive:
+###### *y desde donde estés deséame suerte en este frustrante, largo y angosto camino del Data Science con R* :pensive:                                                                    Amén
